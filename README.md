@@ -1,4 +1,7 @@
 # RUN THE TEMPLATE
+My template is a modified version of the Express generator, converted to use TypeScript. Since I prefer writing projects in TypeScript, I created this Node Express generator template to make it easier for those who want to use the Express generator with TypeScript."
+
+This version clarifies your intention and highlights the benefits of using your TypeScript template. Let me know if you'd like any further adjustments!
 
 Since we use nodemon use
 
